@@ -1,4 +1,4 @@
-# Middle-Eartth
+# Middle-Earth
 A collection for all my bash and other management scripts for my Home (Lab) when I'm away from Home.
 
 (Also functions as a centralized cloud backup in the event of a horrible event!) 
